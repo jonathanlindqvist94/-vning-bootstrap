@@ -1,0 +1,28 @@
+ul {
+    background: black;
+    padding: 2rem 0;
+}
+
+a {
+    color: white;
+    margin-left: 50px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+
+.btn {
+    background: #EC008C;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    padding: .7rem 2rem;
+}
+
+.btn:hover, .btn:hover, btn:focus, .btn:focus {
+    box-shadow: 0 10px 30px rgba(0,0,0,.4);
+    background: linear-gradient(145deg,#F05A28 0,#EC008C 100%);
+    color: #fff;
+}
