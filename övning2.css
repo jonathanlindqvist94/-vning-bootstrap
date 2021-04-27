@@ -13,6 +13,20 @@ a:hover {
     color: white;
 }
 
+.nav-item {
+    display: flex;
+}
+
+.align-right {
+    position: absolute;
+    margin-left: 2rem;
+    left: 20px;
+    width: 250px;
+
+}
+
+
+
 
 .btn {
     background: #EC008C;
